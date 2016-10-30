@@ -15,6 +15,8 @@
 
       @include('partials._contact')
 
+      @include('partials._footer')
+
       @include('partials._javascript')
 
     </body>
