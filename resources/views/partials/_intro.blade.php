@@ -4,9 +4,7 @@
           <div class="row">
               <div class="col-lg-12">
                 <div style="position: fixed; z-index: -99; width: 100%; height: 100%">
-  <iframe id="ytplayer" frameborder="0" height="100%" width="100%" volume="0"
-    src="https://youtube.com/embed/5PQvQLREg8E?autoplay=1&controls=0&showinfo=0&autohide=1&loop=1&playlist=5PQvQLREg8E&end=73">
-  </iframe>
+
 </div>
                 <div class="col-md-8">
                   <h1>Peluquería Canina a Domicilio</h1>
