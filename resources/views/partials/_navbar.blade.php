@@ -8,7 +8,9 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">Start Bootstrap</a>
+            <a class="navbar-brand page-scroll" href="#page-top">
+              <img class="img-logo" src="img/logo.png" alt="logo">
+            </a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
