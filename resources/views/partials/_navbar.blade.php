@@ -21,13 +21,13 @@
                     <a class="page-scroll" href="#page-top"></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#about">Quienes Somos</a>
+                    <a class="page-scroll" href="#about"><p>Quienes Somos</p></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#services">Servicios</a>
+                    <a class="page-scroll" href="#services"><p>Servicios</p></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#contact">Contacto</a>
+                    <a class="page-scroll" href="#contact"><p>Contacto</p></a>
                 </li>
             </ul>
         </div>
