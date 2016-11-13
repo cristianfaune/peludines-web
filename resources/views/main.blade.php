@@ -18,6 +18,8 @@
 
       @include('partials._intro')
 
+                  <!--<h2>{{ $obj->name." ".$obj->email}}</h2>-->
+
       @include('partials._about')
 
       @include('partials._services')

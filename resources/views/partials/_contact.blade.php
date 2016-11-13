@@ -26,6 +26,7 @@
 
         </div>
         <div class="col-md-4">
+
           {!! Form::open(['url' => 'foo/bar']) !!}
           {{ Form::label('name', 'Nombre:', array('style'=>'color: white;'))}}
           {{Form::text('name',null, array('class'=>'form-control'))}}
